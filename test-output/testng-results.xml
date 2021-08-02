@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-01T23:13:26 EDT" name="Default suite" finished-at="2021-08-01T23:13:56 EDT" duration-ms="30140">
+    <groups>
+    </groups>
+    <test started-at="2021-08-01T23:13:26 EDT" name="Default test" finished-at="2021-08-01T23:13:56 EDT" duration-ms="30140">
+      <class name="testScripts.phpTravelTestScript">
+        <test-method is-config="true" signature="setupTestEnvironment()[pri:0, instance:testScripts.phpTravelTestScript@7ea37dbf]" started-at="2021-08-01T23:13:26 EDT" name="setupTestEnvironment" finished-at="2021-08-01T23:13:29 EDT" duration-ms="3406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTestEnvironment -->
+        <test-method signature="testFlightTab()[pri:0, instance:testScripts.phpTravelTestScript@7ea37dbf]" started-at="2021-08-01T23:13:29 EDT" name="testFlightTab" finished-at="2021-08-01T23:13:38 EDT" duration-ms="9040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFlightTab -->
+        <test-method signature="testFlightTab2()[pri:0, instance:testScripts.phpTravelTestScript@7ea37dbf]" started-at="2021-08-01T23:13:38 EDT" name="testFlightTab2" finished-at="2021-08-01T23:13:44 EDT" duration-ms="5342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFlightTab2 -->
+        <test-method signature="testHotelCheckIn()[pri:0, instance:testScripts.phpTravelTestScript@7ea37dbf]" started-at="2021-08-01T23:13:44 EDT" name="testHotelCheckIn" finished-at="2021-08-01T23:13:51 EDT" duration-ms="7580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHotelCheckIn -->
+        <test-method signature="testTabs()[pri:0, instance:testScripts.phpTravelTestScript@7ea37dbf]" started-at="2021-08-01T23:13:51 EDT" name="testTabs" finished-at="2021-08-01T23:13:56 EDT" duration-ms="4573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTabs -->
+        <test-method is-config="true" signature="postTestBehavior()[pri:0, instance:testScripts.phpTravelTestScript@7ea37dbf]" started-at="2021-08-01T23:13:56 EDT" name="postTestBehavior" finished-at="2021-08-01T23:13:56 EDT" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTestBehavior -->
+      </class> <!-- testScripts.phpTravelTestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
